@@ -61,6 +61,23 @@ If you're interested in learning how the Scout Flight Controller was made and pe
 
 Thanks to [stienman](https://github.com/stienman), all 12 chapters are now available as a single ebook PDF download! Download the ebook [here](https://github.com/TimHanewich/scout/releases/download/1/The.Scout.Flight.Controller.pdf).
 
+## HW Parts
+1. [Flysky FS-i6 6CH 2.4GHz AFHDS RC Transmitter w/FS-iA6B Receiver for RC Multirotor Helicopter Airplane Glider Quadcopter](https://www.amazon.com/dp/B07CXL9LCT?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+
+2. [F450 Drone Frame Kit 4-Axis Airframe 450mm Quadcopter Frame Kit with Landing Skid Gear](https://www.amazon.com/dp/B0776WLHX7?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+3. [HRB 4S 3300mAh Lipo Battery Soft Case 14.8V 60C T RC Lipo Battery](https://www.amazon.com/dp/B06XKQJZ8D?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+4. [Tenergy TB-6AB Balance Charger Discharger 1S-6S Digital Battery Pack Charger w/ LCD Display, Tamiya/JST/EC3/HiTec/Deans Connectors, and Power Supply](https://www.amazon.com/dp/B00466PKE0?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+5. [Gy-521 MPU-6050 MPU6050 Module 3 Axis Analog Gyro Sensors+ 3 Axis Accelerometer Module](https://www.amazon.com/dp/B008BOPN40?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+6. [uxcell RC Propellers CW CCW 8045 8x4.5 Inch 2-Vane Fixed-Wing](https://www.amazon.com/dp/B07PVFS5YH?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+7. [30A RC Brushless Motor Electric Speed Controller ESC 3A UBEC with XT60 & 3.5mm Bullet Plugs](https://www.amazon.com/dp/B071GRSFBD?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+
+8. [iFlight 4pcs XING-E Pro 2207 2750KV Brushless Motor 4S for QAV FPV Racing Drone Quadcopter](https://www.amazon.com/dp/B07Y9JK2MW?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
 ## Disclaimer of Liability
 Please be aware that I, Tim Hanewich, the creator of this drone quadcopter code, do not assume any responsibility or liability for any consequences, including but not limited to injuries, damages, breaches of law, or any adverse events that may occur while deploying, testing, or using this code in any other way.
 
