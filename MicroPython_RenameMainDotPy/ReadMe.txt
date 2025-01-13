@@ -1,0 +1,1 @@
+Flash the MicroPython_RenameMainDotPy\Recovery_uf2\MicroPython_RenameMainDotPy.uf2 into the Pico if it becomes "bricked". Its probably because a main.py file was loaded to it and cannot exit.
